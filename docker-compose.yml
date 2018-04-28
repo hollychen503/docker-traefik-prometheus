@@ -15,4 +15,4 @@ services:
 networks:
  prometheus: 
    external:
-     name: dockerprometheus_back-tier
+     name: prometheus_back-tier
